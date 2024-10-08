@@ -85,7 +85,7 @@ articles [Willighagen2020] (compact identifier here highlighted in bold):
     the syntax [<b>cito:usesMethodIn</b>] and formatted in bold. That is, the bibnote starts with the
     [ character, followed by one of the CiTO types, and ending with the ] character. If you wish to
     provide more than one annotation, you can repeat this syntax, separated by one or more spaces,
-    for example: [[<b>cito:usesMethodIn</b>] [[<b>cito:citeAsAuthority</b>].
+    for example: [<b>cito:usesMethodIn</b>] [<b>cito:citeAsAuthority</b>].
   </i>
 </ul>
 
