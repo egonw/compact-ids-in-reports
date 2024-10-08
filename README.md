@@ -12,8 +12,10 @@ and a locally unique identifier (LUI)" [Wimalaratne2018]. For example, for prote
 represent the PDB structure [2gc4](https://bioregistry.io/pdb:2gc4) as *pdb:2gc4*.
 
 When the prefixes are defined by community standards, then a compact identifier can be resolved.
-There currently two main providers of prefix files [Wimalaratne2018], Identifiers.org [BernalLlinares2021],
-and Bioregistry [Hoyt2022]. There match three existing *resolvers* that will take a compact
+The Bioregistry indexes more than 20 widely used registries of prefixes and their associated metadata
+on [https://bioregistry.io/related](https://bioregistry.io/related). Three notable registries are
+Name-to-Thing [Wimalaratne2018], Identifiers.org [BernalLlinares2021],
+and the Bioregistry [Hoyt2022]. There match three existing *resolvers* that will take a compact
 identifier as part of a resolver URL and redirect to the database with the record matching
 that identifier:
 
