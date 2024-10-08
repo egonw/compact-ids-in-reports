@@ -19,7 +19,7 @@ that identifier:
 
 * Name-to-Thing (N2T): [https://n2t.net/](https://n2t.net/)
 * Identifiers.org: [https://identifiers.org/](https://identifiers.org/)
-* Bioregistry.org: [https://bioregistry.io/](https://bioregistry.io/)
+* The Bioregistry: [https://bioregistry.io/](https://bioregistry.io/)
 
 Each of these URLs can be extended with a compact identifier. For example, a taxon record
 from the NCBI databases or the PDB entry mentioned earlier:
