@@ -79,14 +79,14 @@ The compact identifier has also been used as the method to include citation inte
 articles [Willighagen2020] (compact identifier here highlighted in bold):
 
 <ul>
-  <li>
+  <i>
     We take advantage here of the ability to add notes to full form [..] references in bibliographies.
     These are referred to as bibnotes. The content of the note will be strictly formatted: it will use
     the syntax [<b>cito:usesMethodIn</b>] and formatted in bold. That is, the bibnote starts with the
     [ character, followed by one of the CiTO types, and ending with the ] character. If you wish to
     provide more than one annotation, you can repeat this syntax, separated by one or more spaces,
     for example: [[<b>cito:usesMethodIn</b>] [[<b>cito:citeAsAuthority</b>].
-  </li>
+  </i>
 </ul>
 
 Note that in this use, the square brackets and bold typeface are used to make then easier to
