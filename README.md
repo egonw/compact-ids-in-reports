@@ -24,8 +24,8 @@ that identifier:
 Each of these URLs can be extended with a compact identifier. For example, a taxon record
 from the NCBI databases or the PDB entry mentioned earlier:
 
-* [https://identifiers.org/taxonomy:9606](https://identifiers.org/taxonomy:9606)
 * [https://bioregistry.io/pdb:2gc4](https://bioregistry.io/pdb:2gc4)
+* [https://identifiers.org/col:6MB3T](https://identifiers.org/col:6MB3T) (`col` is the prefix for the Catalogue of Life)
 
 ## Why use in reports?
 
@@ -43,7 +43,7 @@ compact identifier as plain text in the document, possibly in parentheses
 (with the compact identifier highlighted here in bold):
 
 <ul>
-  <i>This report is only about the experimental data of the human (<b>taxonomy:9606</b>) cell lines.</i>
+  <i>This report is only about the experimental data of the human (<b>NCBITaxon:9606</b>) cell lines.</i>
 </ul>
 
 Or:
@@ -98,6 +98,11 @@ why the cited articles are cited.
 This document described what the compact identifier is, how it helps linking to online
 databases, and how they can be used in written reports as plain text, optionally
 hyperlinked with one of the compact identifier resolvers.
+
+### Acknowledgments
+
+The authors thank [github:cthoyt](https://n2t.net/github:cthoyt) and [github:larsgw](https://n2t.net/github:larsgw)
+for their comment.
 
 # References
 
