@@ -12,7 +12,7 @@ and a locally unique identifier (LUI)" [Wimalaratne2018]. For example, for prote
 represent the PDB structure [2gc4](https://bioregistry.io/pdb:2gc4) as *pdb:2gc4*. There
 is a clear similarity with the SciCrunch [Research Resource Identifiers](https://rrid.site/)
 (RRIDs) as used by several journals, like
-[eLife](https://elifesciences.org/inside-elife/ff683ecc/rrids-how-did-we-get-here-and-where-are-we-going) [Bandrowski2016].
+[eLife](https://elifesciences.org/inside-elife/ff683ecc/rrids-how-did-we-get-here-and-where-are-we-going) [[Bandrowski2016](#Bandrowski2016)].
 
 When the prefixes are defined by community standards, then a compact identifier can be resolved.
 There currently are multiple providers of prefix files [Wimalaratne2018], including Identifiers.org [BernalLlinares2021]
@@ -115,7 +115,7 @@ for their comment.
 
 # References
 
-* [Bandrowski2016] Bandrowski, A., Brush, M., Grethe, J.S. et al. The Resource Identification Initiative: A Cultural Shift in Publishing. Neuroinform 14, 169–182 (2016). [doi:10.1007/s12021-015-9284-3](https://bioregistry.io/doi:10.1007/s12021-015-9284-3) <b>[cito:obtainsBackgroundFrom]</b>
+* <a name="Bandrowski2016"></a>[Bandrowski2016] Bandrowski, A., Brush, M., Grethe, J.S. et al. The Resource Identification Initiative: A Cultural Shift in Publishing. Neuroinform 14, 169–182 (2016). [doi:10.1007/s12021-015-9284-3](https://bioregistry.io/doi:10.1007/s12021-015-9284-3) <b>[cito:obtainsBackgroundFrom]</b>
 * [BernalLlinares2021] Manuel Bernal-Llinares, Javier Ferrer-Gómez, Nick Juty, Carole Goble, Sarala M Wimalaratne, Henning Hermjakob, Identifiers.org: Compact Identifier services in the cloud, Bioinformatics, Volume 37, Issue 12, June 2021, Pages 1781–1782, {doi:10.1093/bioinformatics/btaa864](https://bioregistry.io/doi:10.1093/bioinformatics/btaa864) <b>[cito:usesMethodIn]</b>
 * [Hoyt2022] Hoyt, C.T., Balk, M., Callahan, T.J. et al. Unifying the identification of biomedical entities with the Bioregistry. Sci Data 9, 714 (2022). [doi:10.1038/s41597-022-01807-3](https://bioregistry.io/doi:10.1038/s41597-022-01807-3) <b>[cito:usesMethodIn]</b>
 * [VanRijn2022] van Rijn, J., Afantitis, A., Culha, M. et al. European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials. J Cheminform 14, 57 (2022). [doi:10.1186/s13321-022-00614-7](https://bioregistry.io/doi:10.1186/s13321-022-00614-7)  <b>[cito:includesQuotationFrom]</b>
