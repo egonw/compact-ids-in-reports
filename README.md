@@ -2,8 +2,8 @@
 
 Egon Willighagen ([orcid:0000-0001-7542-0286](https://bioregistry.io/orcid:0000-0001-7542-0286))
 
-This document describes how you can improved the FAIR-ness of your project report by using
-compact identifiers. Of course, it can be applied to any other document too and has been used
+This document describes how you can improve the FAIR-ness of your project report by using
+compact identifiers. Of course, it can be applied to any other document too, and has been used
 in, for example, journal articles and online documentation already.
 
 Compact identifiers find a balance between compactness in writing and being a persistent, unique,
@@ -41,9 +41,9 @@ from the NCBI databases or the PDB entry mentioned earlier:
 
 Using persistent identifiers is generally accepted as a good practice that benefits science
 and has been part of the ideas of FAIR data ([[Wilkinson2016](#Wilkinson2016)]) and of Open Science. Compact
-identifiers make it easy to be precise in reports what things the reports talks about: they
-are relatively short but very precise at the same time. And that has the benefit that they
-are much easier to reuse than labels of things and concepts which intrinsically have a certain
+identifiers make it easy to be precise in reports about what things the reports talk about: they
+are relatively short but very precise at the same time. also, that has the benefit that they
+are much easier to reuse than labels of things and concepts that intrinsically have a certain
 level of uncertainty; a database entry has commonly a very specific meaning.
 
 ## Examples uses
@@ -93,14 +93,14 @@ articles [[Willighagen2020](#Willighagen2020)] (compact identifier here highligh
     We take advantage here of the ability to add notes to full form [..] references in bibliographies.
     These are referred to as bibnotes. The content of the note will be strictly formatted: it will use
     the syntax [<b>cito:usesMethodIn</b>] and formatted in bold. That is, the bibnote starts with the
-    [ character, followed by one of the CiTO types, and ending with the ] character. If you wish to
+    [ character, followed by one of the CiTO types, and ends with the ] character. If you wish to
     provide more than one annotation, you can repeat this syntax, separated by one or more spaces,
     for example: [<b>cito:usesMethodIn</b>] [<b>cito:citeAsAuthority</b>].
   </i>
 </ul>
 
-Note that in this use, the square brackets and bold typeface are used to make then easier to
-be recognized. Also note that this document uses this approach to indicate the intention of
+Note that in this use, the square brackets and bold typeface are used to make them easier to
+be recognized. Also, note that this document uses this approach to indicate the intention of
 why the cited articles are cited.
 
 ## Conclusion
